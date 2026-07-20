@@ -1,0 +1,3 @@
+CREATE DATABASE Self_SQL_GitHub_Project;
+
+-- DROP DATABASE IF EXISTS sql_course;
