@@ -1,23 +1,37 @@
-# 📊 SQL Data Analyst Job Market Analysis
+# SQL Data Analyst Job Market Analysis
 
-A SQL project analyzing 2023 Data Analyst job postings to uncover top-paying roles, in-demand skills, salary trends, and the most valuable skills for career growth.
+<p align="center">
+  <img src="assets/SQL_1.png" alt="SQL Project Banner" width="60%">
+</p>
 
-## 🛠️ Tools Used
+## 📖 Overview
+
+This project explores the 2023 Data Analyst job market using SQL to uncover salary trends, identify the most sought-after skills, and determine which skills offer the greatest career value. The analysis is based on real-world job posting data and demonstrates practical SQL techniques for extracting business insights.
+
+---
+
+## 🛠️ Tech Stack
+
 - SQL
 - PostgreSQL
 - Visual Studio Code
 - Git & GitHub
 
+---
 
-## 📌 Key Insights
-- 💰 Top-paying Data Analyst jobs
-- 🧠 Skills required for high-paying roles
-- 📈 Most in-demand skills
-- 💵 Highest-paying skills
-- 🚀 Best skills based on demand and salary
+## 📊 Key Findings
+
+- 💰 Identified the highest-paying Data Analyst positions
+- 📈 Discovered the most in-demand technical skills
+- 🧠 Analyzed the skills associated with top-paying jobs
+- 💵 Ranked skills based on average salary
+- 🚀 Highlighted the best skills by balancing demand and earning potential
+
+---
 
 ## 📂 Project Structure
-```
+
+```text
 project_sql/
 ├── 1_top_paying_jobs.sql
 ├── 2_top_paying_job_skills.sql
@@ -30,4 +44,4 @@ project_sql/
 ## 📖 Summary
 This project demonstrates SQL querying, joins, CTEs, aggregations, and data analysis to extract meaningful insights from real-world job market data.
 
-![SQL Project Banner](/README.mdassets\SQL_1.png)
+![SQL Project Banner](assets\SQL_1.png)
