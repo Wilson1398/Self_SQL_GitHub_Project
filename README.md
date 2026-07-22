@@ -31,6 +31,8 @@ This project explores the 2023 Data Analyst job market using SQL to uncover sala
 
 ## 📂 Project Structure
 
+Refer to this [Project_SQL_Folder](/Self_SQL_GitHub_Project/project_sql/)
+
 ```text
 project_sql/
 ├── 1_top_paying_jobs.sql
