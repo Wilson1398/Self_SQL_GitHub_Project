@@ -30,4 +30,4 @@ project_sql/
 ## 📖 Summary
 This project demonstrates SQL querying, joins, CTEs, aggregations, and data analysis to extract meaningful insights from real-world job market data.
 
-![SQL Project Banner](assets\SQL_1.png)
+![SQL Project Banner](/README.mdassets\SQL_1.png)
