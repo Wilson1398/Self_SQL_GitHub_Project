@@ -8,7 +8,6 @@ A SQL project analyzing 2023 Data Analyst job postings to uncover top-paying rol
 - Visual Studio Code
 - Git & GitHub
 
-![SQL Project Banner](assets\SQL_1.png)
 
 ## 📌 Key Insights
 - 💰 Top-paying Data Analyst jobs
@@ -30,3 +29,5 @@ project_sql/
 
 ## 📖 Summary
 This project demonstrates SQL querying, joins, CTEs, aggregations, and data analysis to extract meaningful insights from real-world job market data.
+
+![SQL Project Banner](assets\SQL_1.png)
