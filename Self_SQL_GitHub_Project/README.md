@@ -1,7 +1,7 @@
 # SQL Data Analyst Job Market Analysis
 
 <p align="center">
-  <img src="assets/SQL_1.png" alt="SQL Project Banner" width="50%">
+  <img src="Self_SQL_GitHub_Project/assets/SQL_1.png" alt="SQL Project Banner" width="50%">
 </p>
 
 ## 📖 Overview
@@ -30,6 +30,8 @@ This project explores the 2023 Data Analyst job market using SQL to uncover sala
 ---
 
 ## 📂 Project Structure
+
+Refer to this [Project_SQL_Folder](/Self_SQL_GitHub_Project/project_sql/)
 
 ```text
 project_sql/
