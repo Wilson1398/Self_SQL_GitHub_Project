@@ -1,6 +1,8 @@
 # SQL Data Analyst Job Market Analysis
 
-![SQL Project Banner](assets/SQL_1.png)
+<p align="center">
+  <img src="assets/SQL_1.png" alt="SQL Project Banner" width="90%">
+</p>
 
 ## 📖 Overview
 
